@@ -1,0 +1,53 @@
+{
+  "latest": "0.7",
+  "versions": [
+    {
+      "version": "0.1",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1406722111401103441/Build_v0.1.zip?ex=690da04e&is=690c4ece&hm=b118df44dfc742be7a0adcd2c7d9238247bc5f42948ba6df35f1a2ced30ebc0c&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.2",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1409249648509583440/Rolus_Build_V0.2.zip?ex=690d97c2&is=690c4642&hm=4b4ea4f0327f72c39c79e8348e28d36bfeab38f7670f8ae0cdaef622beb875df&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.3",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1414310985665351801/Rolus_Build_V0.3.zip?ex=690e353f&is=690ce3bf&hm=426918a59d1edb8dc75dcd0a2764ca841ed44fcc78ab6ad6f7c04671c5190aa1&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.4",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1420137274854867045/Rolus_Build_v0.4.zip?ex=690da6a7&is=690c5527&hm=53f3613b5cd3fc14d3bf250e9294137dc40e4cb17913162550a084eca0680b2a&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.5",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1430958680173445263/Rolus_Build_v0.5.zip?ex=690e209f&is=690ccf1f&hm=4fce1a7773ed448366bf0917291f390b77ff6f04ea925443bb0a186a9a55b9f6&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.5.1",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1430970059978702848/Rolus_Build_v0.5.1.zip?ex=690e2b38&is=690cd9b8&hm=58ec90d43686d428c243cb66df2c0d68d84774c366778bc7f5911b1fa83d94cb&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.6",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1436065323810951259/Rolus_Build_v0.6.zip?ex=690e3f8e&is=690cee0e&hm=5197454515251aa9afd41c77765cdbfed180ae6413bc93107e37fb59df810b10&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.7",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1401629667668000768/1442616443899347166/Rolus_Build_v0.7.zip?ex=692614c2&is=6924c342&hm=f71a0419d64841c0a819752382e1ca9bf9069489e1817d39560d611bcb7f246c&",
+      "size": 161688354,
+      "executable": "Rolus.exe"
+    }
+  ]
+}
