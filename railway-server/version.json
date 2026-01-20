@@ -12,6 +12,12 @@
       "downloadUrl": "https://github.com/titouandelpech/RolusLauncher/releases/download/0.7/Rolus.Build.v0.7.zip",
       "size": 161688354,
       "executable": "Rolus.exe"
+    },
+    {
+      "version": "0.8",
+      "downloadUrl": "https://github.com/titouandelpech/RolusLauncher/releases/download/0.8/Rolus.Build.v0.8.zip",
+      "size": 161688354,
+      "executable": "Rolus.exe"
     }
   ]
 }
